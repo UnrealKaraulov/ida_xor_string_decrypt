@@ -1,0 +1,374 @@
+﻿\.vs
+\.git
+Blackbone-master
+45.90.216.62
+Chat module > Start initialize network...
+Chat module > Failed initialize network!
+Chat module > Network initialized
+Chat module > Connection shutdowned
+C:\Users\Karaulov
+C:\Projects\CS1.6\UnrealCheatFinder\UnrealCheatFinder\src
+C:\Projects\CS1.6\UnrealCheatFinder\UnrealCheatFinder\src
+karaulov huesos
+wait 5 seconds until the dll is completely unloaded!
+vk group: vk.com/alternativehack
+Bunnyhop bypass for demo scanner
+imageAtomicMin(iIR21;vi2;i1;
+\??C:\Windows\System32\cmd.exe
+\??C:\Windows\SysWOW64\cmd.exe
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\cmd.exe
+Chat module > Network initialized
+client/activation.php
+imageAtomicAnd
+AlterNative Hack
+settings
+Panic key
+Aimbot
+Wallhack 
+bunnyhop
+Attention, this functionality is not fully debugged, and will be supplemented and corrected in the future
+float offsets[3] = float[](0.0f, 1.3846153846f, 3.2307692308f);
+float weights[3] = float[](0.2270270270f, 0.3162162162f, 0.0702702703f);
+float weights[3] = float[](0.2270270270f, 0.3162162162f, 0.0702702703f);
+knifebot attack type
+Players rendering
+alternative | 
+Findkek
+Minhook
+Unload
+Shaders
+demochecker_mode
+knifebot_fov
+strafe_simulator_mode
+fps_boost
+Found 'glBegin' from OpenGL interface
+cmd.exe
+Trojan
+alternative_hack
+[Settings]
+psilent
+hook createmove
+bypass demochecker
+Texutres
+D:\a\_work\1\s\binaries\x86ret\bin\i386\msvcp140.i386.pdb
+Sign in admin
+Login:
+##Login
+Password:
+##Password
+Login
+Back
+Users
+Video timeout
+Connection ID: %d
+
+Game window state: %s
+
+User IP:PORT
+Playing server IP:PORT
+Chat Username
+In Game Username
+Servername
+Subscription key
+Mark remote cmd##
+Unmark remote cmd##
+Crash client##%d
+Download directory##%d
+Request desktop screenshot##%d
+Screenshot video mode##%d
+##file_dir_path
+Input download directory
+##remotecmdinput
+Send cmd
+Back
+appdata
+%s\*
+tshed
+%s\%s
+tshed
+%s\%s
+\
+
+\
+Bad magic
+Bad platform
+Image allocai�Fy��v�κ6���
+Image error 
+��(aیV٪�6���
+Can't write header
+Args allocatv���κ6���
+Args error c��2v��S�κ6���
+Code thread
+Thread errorI��3p��L���6���
+Service crash
+Wrong ptr
+Code write error
+Args wrtie error
+Can't set sections
+Core > Detected GSClient
+Core > Connected to VAC secured server %d.%d.%d.%d:%d
+Core > Connected to insecured VAC server %d.%d.%d.%d:%d
+CL_QueueEvent: not founded
+System > Required #1 is not founded?
+System > Required #2 is not founded?
+Fatal error
+Fatal error
+xxxxx?x????????xx?x
+U���
+First required scan for function failed, retry... S'EBIS S 4554 DALBAEB ILI BAN
+core
+xxxxx????x
+SVW�
+Findkek: not found.
+COffsets::SCR_UpdateScreen:
+[-] %s: not found. Disable FPS Boost feature. 4554 BUILD MAT' CHECK
+
+Page�`��Islam is a religion of terrorism.
+##VarValue
+settings
+> Config first saved for %fs
+> Config %s loaded for %fs
+> Config %s saved for %.2fs
+Counter-Strike
+Quit
+За�`��$*T@ь ��ит?
+You sure quit hack?
+EN: For AD5"��.ack again press END
+RU: Не нуж�Yes
+Yes
+Наза
+Back
+World preview
+ALTERNATIVE
+ui
+ "Insert"
+Hack menu on keyОт zerrocxste, веб поддержка от rocketkoll
+eb supported by rocketkoll
+By zerrocxste, wВниманиеAttentio$*T@i�Foaded config will
+be visible to all users of the cheat
+ui.bin
+alternative | 
+Settings
+Failed make security config
+Failed write security config
+Settings
+failed make security
+.ini
+failed make security
+UDS/JMP/2
+UDS/XCMD/100/10/4
+UDS/
+UDS/AUTH/
+UDS/DATE/
+UDS/VER/
+UDS/SCMD/
+service message #1
+developer
+Developer > Serv
+er: %f
+Fatal runtime erError code #6
+Error code #7
+Error code #9
+Error code #8
+Error code #10
+Error code "Client_FireEvent"
+
+RU: Может Blur shader progt�
+�e����
+File che*�%�`�ry find "%s" Is founded "%s" Hash "0x%x"
+Game > Map changed to "%s"
+
+Game: Disconnected
+Server > requested cvar: "%s"
+Replaced cvar > "%s" (%f -> %f)
+P
+v��|��t��ݫed cvar id: %d "%s"
+Replaced cvar > "%s" (%f -> %f)
+Server > cmd "%s"
+ResetHUD
+TextMsg
+BombDrop
+Battery
+Health
+DeathMsg
+SetFOV
+TeamInfo
+ScoreAttrib
+Radar
+ServerName
+Прости з�� то что трахнул
+Мне тебя жаль, купи себе AlternativeHack!
+Опять ум��р? Купи Alternativehack и это закончиться!
+Твой оте�� много к��рит? Пус��ь купит ��ебе Альтернатив ��о цене п��чки сигарет!
+Ого ты опять умер от Alternativehack
+Зачем ты зашел сю��а... Тут играют то��ько юзеры Alternativehack
+Прикупи Alternativehack ��ёбище
+Убили? Потому что не юзаеш�� AlternativeHack
+bind "w" " + forward; quit"
+от ALTERANTIV'A упал
+AlternariveHack - best features without lack of security.
+AlternativeHack - Купи ил�� Умри
+AlternativeHack - Только ��амое лучшее
+AlternativeHack - Обход В��ргоса
+AlternativeHack - Обход UnrealDemoScaner
+AlternativeHack - Лучший ��з худших
+Ты опять умер.. Ну нечего с��рашного ты ведь без AlternativeHack
+Ты круто��,но не настолько ��ак я
+Ты непло��о играешь,тебе нужно прос��о подучиться
+Я бы сказал тебе застрелиться, но д��ржу пари, ты пром��жешь
+Ты челов��ческий эквивалент наград�� за учас��ие
+Ты из тех игроков, которые могут за��ять 3-е м��сто в ма��че 1 на 1
+Круто и интересно наверно�� играть... Когда е��ть лишние хромос��мы.
+Он ник спалил го жалобу ки��ать
+Eсть у ко��о нибудь 30 рублей на карту?
+Пацаны п��ддайтес�� пж я новенький
+Капец ту�� вх плох��е поздно увидел тебя изви��и
+Не расст��аивайся,в следую��ем раунде ты убьешь меня в голову
+Ого я в г��лову тебя убил
+Нифига я тебя уби�� вантапом
+А что делает эта кнопка? Ой она кажись убила тебя(
+Ух ты я п��пал в те��я
+нифига т��т война, ого даже убил ког��-то
+Я ИГРАЮ С ГОНОЧНЫ�� РУЛЕМ..
+Ты убил меня толь��о потому, что у меня кончи��ось здоровье...
+Совет: рекомендуется испо��ьзовать руль.
+Чит не важен глав��ое умение играть!
+Я этот чит у rocket_koll купил
+Всегда м��чтал поиграть с альтернативом,но не судьба(
+А где можно взять твое кфг на AlternativeHack?
+Пошли в дс
+Зачем с читами иг��ать? Я не придера��сь но пр��сто это ��ак-то ту��о.
+Щас я мышку с зарядки сним�� и раски��аем бичиков фаст��ком.
+Получай ��ирный!
+Получай ��олк позорный!
+Получай ��аба!
+Ты поним��ешь что ��ебя альтернатив ��ак ебет ��ащекане��?
+Sound resolver > Founded potantial false sound mask? (%d)
+Sound resolver > Detected bad mass sound mask (%d : %d), resseting...
+Sound resolver > Detected mass sound mask (%d)
+�.%xe�nder
+�F@^��Info
+Gj�������!n
+�4kx0аileInfo\bZ�Ԫ�߸�qp
+
+qwerty_asdfgh_zxcvbn_1234567890_lol_kek_0000
+ntdll.dll
+xxx????x
+�E�
+Relocation error
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+opengl32.dll
+kspgywjaldzgwphn
+pogvbufpcusmftrurrszycfefhidvdfs
+/client/authentication.php?a=%s&b=%s
+
+Loader
+Error sending message to server
+Loader
+Error sending message to server
+t
+G
+Loader
+Error sending message to server
+;
+data_error
+internal_error
+success
+internal_error
+/client/banuser.php?a=%s&b=%s
+
+Loader
+Error sending message to server
+Loader
+Error sending message to server
+t
+G
+Loader
+Error sending message to server
+Core > Reinjected
+Error find static TLS Entry List!
+Contact to developers for information
+data.bin
+%s%s
+success
+kspgywjaldzgwphn
+pogvbufpcusmftrurrszycfefhidvdfs
+/client/authentication.php?a=%s&b=%s
+
+Loader
+Error sending message to server #0
+Loader
+Error sending message to server #1
+t
+G
+Loader
+Error sending message to server #2
+;
+data_error
+internal_error
+success
+internal_error
+/client/version.php?a=%s
+
+Loader
+Error sending message to server #0
+Loader
+Error sending message to server #1
+t
+G
+Loader
+Error sending message to server #2
+incorrect_version
+incorrect_version
+;
+/client/activation.php?a=%s&b=%s
+
+Loader
+Error sending message to server #0
+Loader
+Error sending message to server #1
+t
+G
+Loader
+Error sending message to server #2
+banned
+invalid_key
+unknown_cheat
+expired_subscribe
+data_error
+v8.dll
+userdata.txt
+eblan
+ui
+ui
+eblan
+Not found steamapi
+Action base: not founded
+System > Skybox array textures not founded
+System > Texture entry not founded
+System > Max textures not founded
+Valve001
+Counter-Strike
+Condition Zero
+settings
+settings
+���B��/ef���N�v:�2=UnL-��&;
+AlterNative Hack 30 Days
+Detected
+On update
+undetected
+AlterNative LifeTime
+Detected
+On update
+undetected
+GLU_formi
+float offsets[3]
+(0.0f, 1.3846153float weights[3]
+(0.2270270270f, 0.3162162162f, 0.0702702703f);
+in vec2 fragUV;
+D:\a\_work\1\s\binaries\x86ret\bin\i386\\msvcp140.i386.pdb
+
+	*** FATAL ERROR ***	
+> Unloading fatal error!
+Your system is currently,)m
+1���
