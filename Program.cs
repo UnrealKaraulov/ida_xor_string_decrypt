@@ -316,6 +316,8 @@ class Program
         processedLines.Add("");
         List<string> errorMessages = new List<string>();
 
+        string lastOper = "";
+
         for (int i = 0; i < lines.Length; i++)
         {
             if (lines[i].Contains("_mm_xor_ps"))
@@ -384,6 +386,10 @@ class Program
 
                     if (!string.IsNullOrEmpty(hexString))
                     {
+                        if (lastOper.Length == 0)
+                        {
+                            lastOper = parts[0].Length > 0 ? parts[0] : op1 + " =";
+                        }
                         processedLines[processedLines.Count - 1] += hexString;
                     }
 
@@ -392,7 +398,8 @@ class Program
 
                     if (newline)
                     {
-                        lines[i] = (parts[0].Length > 0 ? parts[0] : op1 + " =") + " (const char*)\"" + processedLines[processedLines.Count - 2].Replace("\n", "").Replace("\r", "") + "\"; // DECRYPTED";
+                        lines[i] = lastOper + " (const char*)\"" + processedLines[processedLines.Count - 2].Replace("\n", "").Replace("\r", "") + "\"; // DECRYPTED";
+                        lastOper = "";
                     }
                     else
                     {
